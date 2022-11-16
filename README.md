@@ -1,5 +1,5 @@
 # chappbase (Chat-App-Pocketbase)
-A Realtime Chat App using Pocketbase, the cute open source firebase alt, fully self hosted and extendable as a framework "backend-as-a-service"
+A Realtime Chat App using [Pocketbase](https://github.com/pocketbase/pocketbase), the cute open source firebase alt, fully self hosted and extendable as a framework "backend-as-a-service"
 
 an experiment with BAAS tech as quick approach to getting up and running with a fully fledged app fit for small to mid tier scale
 
@@ -17,4 +17,4 @@ and then
 cd client && npm start
 ```
 
-host anywhere with static file serving for the front end and for the backedn any app service which supports go or .exe 
+host anywhere with static file serving for the front end and for the backend any app service which supports go or .exe 
